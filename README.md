@@ -7,7 +7,7 @@ Hello there!! This is a good site...
 1. [About Project](#About-Project)
 2. [Functionalities](#functionalities)
 3. [Technologies Applied](#Technologies-Applied)
-4. [Workings](#deployment)
+4. [Workings](#workings)
 5. [Acknowledgements](#Acknowledgements)
 
 
