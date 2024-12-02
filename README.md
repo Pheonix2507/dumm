@@ -10,6 +10,6 @@ EstateSphere is a digital platform designed to revolutionize real estate managem
 4. Workings
 5. Acknowledgements
 
-## About_Project
+## About Project
 
 
