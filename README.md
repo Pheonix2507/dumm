@@ -6,7 +6,7 @@ Hello there!! This is a good site...
 # Table of Contents
 1. [About Project](#About-Project)
 2. [Functionalities](#functionalities)
-3. [Technologies Applied](#Techs-applied)
+3. [Technologies Applied](#Technologies-Applied)
 4. [Workings](#deployment)
 5. [Acknowledgements](#Acknowledgements)
 
