@@ -22,7 +22,9 @@ EstateSphere is a digital platform designed to revolutionize real estate managem
 
 ## Acknowledgements
 [Chintan Bhara Group Leader ID 202201060](https://github.com/Pheonix2507)
+
 [Venil Vekariya ID 202201078](https://github.com/venilv912)
+
 [Parth Dholariya ID 202201085](https://github.com/parthdholariya13)
 [Meghavi Gohil ID 202201015](https://github.com/Meghavi0811)
 [Mihir Moolchandani ID 202201088](https://github.com/horrible-hacker)
