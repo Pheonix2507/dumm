@@ -8,7 +8,7 @@ Hello there!! This is a good site...
 2. [Functionalities](#functionalities)
 3. [Technologies Applied](#Techs-applied)
 4. [Workings](#deployment)
-5. [Acknowledgements](#Acks)
+5. [Acknowledgements](#Acknowledgements)
 
 
 ## About Project
