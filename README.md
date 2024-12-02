@@ -1,20 +1,17 @@
 # EstateSphere
 
-Hello there!! This is a good site...
+Hello there!! This is our site on very profound idea of finding good properties for renting or buying or if you want to put up your own place don't hesitate to visit our site. Do whatever you like.
 
 
 # Table of Contents
 1. [About Project](#About-Project)
-2. [Functionalities](#functionalities)
-3. [Technologies Applied](#Technologies-Applied)
-4. [Workings](#workings)
-5. [Acknowledgements](#Acknowledgements)
+2. [Technologies Applied](#Technologies-Applied)
+3. [Workings](#workings)
+4. [Acknowledgements](#Acknowledgements)
 
 
 ## About Project
-EstateSphere is a digital platform designed to revolutionize real estate management by offering a streamlined interface for property listings, customer interactions, and transaction handling. With features tailored for agents, property managers, and buyers, it simplifies operations and enhances collaboration. Explore its capabilities to modernize real estate processes and elevate customer experience.
-
-## Functionalities
+EstateSphere is a digital platform designed to revolutionize real estate management by offering a streamlined interface for property listings, customer interactions, and transaction handling. With features tailored for property managers, and buyers, it simplifies operations and enhances collaboration. Explore its capabilities to modernize real estate processes and elevate customer experience.
 
 ## Technologies Applied
 - **Frontend**: React, Redux, Axios
@@ -32,7 +29,7 @@ EstateSphere is a digital platform designed to revolutionize real estate managem
   - Sequence diagram
 
 ## Workings
-
+- Here is the live site for your accordance. [EstateSphere](https://estatesphere.onrender.com)
 
 ## Acknowledgements
 - [Chintan Bhara Group Leader ID 202201060](https://github.com/Pheonix2507)
